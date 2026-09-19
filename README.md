@@ -1,13 +1,13 @@
-# Hi there, I'm Gökhan 👋
+# Hey, I'm Gökhan! 👋
 
-Software Developer passionate about building high-quality desktop & web applications and solving complex problems.
+I'm a software development student and a developer intern, constantly learning and building projects to improve my skills.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ What I'm Working With
 - **Languages:** Python, C#
-- **Environment:** Visual Studio Code, Git, GitHub
-- **Focus:** Software Engineering, Clean Code, Automation
+- **Tools:** VS Code, Git, GitHub
+- **Learning:** Software Development, Clean Code, Automation
 
 ---
 
