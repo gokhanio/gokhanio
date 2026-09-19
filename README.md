@@ -12,4 +12,4 @@ I'm a software development student and a developer intern, constantly learning a
 ---
 
 ### 📊 GitHub Stats
-![Gökhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokhanio&show_icons=true&theme=dark)
+![Gökhan's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=gokhanio&theme=dark)
